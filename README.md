@@ -59,7 +59,7 @@ Un ejemplo de un savegame JSON:
 }
 ```
 
-```
+
 
 
 # Actualizaciones del Programa Ruleta de la Fortuna
