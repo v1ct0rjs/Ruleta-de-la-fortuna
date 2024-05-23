@@ -1,4 +1,4 @@
-# Ruleta-de-la-fortuna
+# Ruleta de la fortuna
 Fortune roulette game
 
 ![Screenshot](gif_muestra_funcionamiento.gif)
